@@ -1,4 +1,4 @@
-# Andrew Settles
+<img width="100%" alt="Andrew Settles — Cloud Security, Incident Response, Infrastructure Security" src="https://github.com/user-attachments/assets/33c9da67-fa33-4d72-bdb7-eb4d4e9d19d6" />
 
 Cybersecurity professional and Army Cyber Network Defender instructor focused on cloud security, incident response, and infrastructure security.
 
