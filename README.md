@@ -9,7 +9,6 @@ Cybersecurity professional and Army Cyber Network Defender instructor focused on
 
 ## Projects
 - **[Azure security investigations](https://github.com/asettles/Security-Portfolio):** Identity abuse, application permissions, and cloud policy analysis through Mad Hat Labs.
-- **Home lab:** Ubuntu Server administration, SSH access, firewall configuration, and Linux troubleshooting.
-
+- **[Home lab](https://github.com/asettles/home-lab):** Ubuntu Server administration, SSH access, firewall configuration, and Linux troubleshooting.
 ## Currently Learning
 Azure administration, Python automation, and infrastructure as code.
